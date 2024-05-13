@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,a as e}from"./index-CToibsa1.js";const c={},s=e("h1",null,"設定",-1),_=e("button",null,"aa",-1),a=[s,_];function r(l,d){return n(),o("div",null,a)}const u=t(c,[["render",r]]);export{u as default};
